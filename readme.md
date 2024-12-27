@@ -12,7 +12,7 @@ Example
 The list of commands and their usage is given below:
 
 <!-- ![alt text ](image.png =100x100) -->
-<img src="image.png" alt="text" height=100px width=100px>
+<img src="image.png" alt="text" height=300px width=300px>
 
 Task Properties
 Each task should have the following properties:
